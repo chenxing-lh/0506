@@ -1,0 +1,19 @@
+{
+  "appKey": "DddWGdRqwuhJ4woZALoGKCZWyo2r0cxe",
+  "appSecret": "HKsiHHfq8viNrylMsXDjgPj5UP6yKozy",
+  "projectId": "018a632e6b4b67a2d0504dbacffb2649",
+  "id": 378,
+  "name": "test-01",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chenxing-lh/0506.git",
+    "isPrivate": 0,
+    "username": "381606250@qq.com",
+    "password": "nATzYE81PKTSTwttlrSJnywUAPVQtZrwa+EA6HqUNX8DpSRr2V699O6Dekl0TKxY28EjFcN5TgkAWK9DTndylw=="
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
